@@ -1,0 +1,1 @@
+A,AC installation for building B20,1,B,Load bearing elements and foundations,0
