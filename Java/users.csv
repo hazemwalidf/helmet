@@ -1,0 +1,6 @@
+﻿index,username,password,helmetID,role
+0,admin,1234,99999,Admin
+1,worker1,1234,20328,Worker
+2,worker2,4242,23983,Worker
+3,worker3,9999,48945,Worker
+4,worker4,8283,43940,Worker
